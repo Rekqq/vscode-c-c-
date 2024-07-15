@@ -1,0 +1,10 @@
+1001 wangz 2 computer 98.00 90.00 85.00
+1002 mingm 1 network 90.00 83.00 89.00
+1003 jazz 2 network 89.00 83.00 80.00
+1004 lucy 1 computer 75.00 68.00 91.00
+1005 jerry 2 software 90.00 60.00 75.00
+1006 hery 1 software 78.00 89.00 82.00
+1007 peter 2 computer 90.00 92.00 89.00
+1008 linl 1 software 83.00 76.00 62.00
+1009 loong 2 network 67.00 78.00 79.00
+1010 jimi 1 software 83.00 80.00 79.00
